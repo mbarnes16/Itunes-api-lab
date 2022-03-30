@@ -1,0 +1,10 @@
+.result-card {
+    border: 2px solid black;
+}
+.result-header {
+    width: 100%;
+    background-color: #fafafa;
+}
+#load-more {
+    display: none;
+}
